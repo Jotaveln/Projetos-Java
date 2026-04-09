@@ -29,11 +29,6 @@ Aplicação para gerenciamento de contas bancárias com operações básicas.
 * Estruturas de dados (List, ArrayList)
 * Organização de código em classes
 
-**Localização:**
-`sistema-bancario-java/`
-
----
-
 ## Objetivo
 
 Desenvolver habilidades em programação Java com foco em lógica, orientação a objetos e estruturação de sistemas.
